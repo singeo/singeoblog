@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return 'Hello Laravel';
+    return 'singeo,ello Laravel';
 });
